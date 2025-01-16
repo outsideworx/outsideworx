@@ -43,6 +43,7 @@
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   --bs-primary-rgb: 26, 188, 156;
+  --bs-primary-rgb-gray: 44, 62, 80;
   --bs-secondary-rgb: 44, 62, 80;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -8125,6 +8126,11 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
 }
 
+.bg-primary-gray {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-primary-rgb-gray), var(--bs-bg-opacity)) !important;
+}
+
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
@@ -10979,7 +10985,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 25rem;
+  width: 15rem;
 }
 
 @media (min-width: 992px) {
