@@ -10913,13 +10913,13 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #00B2FF99;
+  color: rgba(0, 178, 255, 0.1);
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #00B2FF99;
+  color: rgba(0, 178, 255, 0.1);
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
