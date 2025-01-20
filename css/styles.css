@@ -10913,13 +10913,13 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: rgba(0, 178, 255, 0.1);
+  color: rgb(0, 178, 255);
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: rgba(0, 178, 255, 0.1);
+  color: rgba(0, 178, 255);
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -11022,12 +11022,6 @@ html {
 }
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
-}
-
-.portfolio-modal .btn-close {
-  color: #1abc9c;
-  font-size: 2rem;
-  padding: 1rem;
 }
 .portfolio-modal .portfolio-modal-title {
   font-size: 2.25rem;
