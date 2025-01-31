@@ -9,5 +9,5 @@ function toggleImage() {
     imageElement.src = images[currentIndex];
 }
 
-toggleImage()
+toggleImage();
 setInterval(toggleImage, 250);
