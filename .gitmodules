@@ -1,0 +1,3 @@
+[submodule "clients/thegreen"]
+	path = clients/thegreen
+	url = git@github.com:outsideworx/thegreen.git
