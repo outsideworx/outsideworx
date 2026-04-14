@@ -1,3 +1,4 @@
 [submodule "thegreen"]
 	path = clients/thegreen
 	url = https://github.com/outsideworx/thegreen.git
+	branch = main
