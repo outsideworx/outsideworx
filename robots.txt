@@ -2,6 +2,6 @@ User-agent: *
 Disallow: /
 Allow: /sitemap.xml
 Allow: /index.html
-Allow: /assets/img/logo/favicon.ico
+Allow: /favicon.ico
 
 Sitemap: https://outsideworx.net/sitemap.xml
