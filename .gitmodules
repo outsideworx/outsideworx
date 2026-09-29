@@ -3,19 +3,19 @@
 	url = https://github.com/outsideworx/thegreen.git
 [submodule "clients/come-in-and-find-out"]
 	path = clients/come-in-and-find-out
-	url = git@github.com:outsideworx/come-in-and-find-out.git
+	url = https://github.com/outsideworx/come-in-and-find-out.git
 [submodule "clients/duckumbrella"]
 	path = clients/duckumbrella
-	url = git@github.com:outsideworx/duckumbrella.git
+	url = https://github.com/outsideworx/duckumbrella.git
 [submodule "clients/gaiapeeps"]
 	path = clients/gaiapeeps
-	url = git@github.com:outsideworx/gaiapeeps.git
+	url = https://github.com/outsideworx/gaiapeeps.git
 [submodule "clients/igli"]
 	path = clients/igli
-	url = git@github.com:outsideworx/igli.git
+	url = https://github.com/outsideworx/igli.git
 [submodule "clients/soupart"]
 	path = clients/soupart
-	url = git@github.com:outsideworx/soupart.git
+	url = https://github.com/outsideworx/soupart.git
 [submodule "clients/soupkitchen"]
 	path = clients/soupkitchen
-	url = git@github.com:outsideworx/soupkitchen.git
+	url = https://github.com/outsideworx/soupkitchen.git
