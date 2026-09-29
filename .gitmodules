@@ -1,21 +1,21 @@
+[submodule "come-in-and-find-out"]
+	path = clients/come-in-and-find-out
+	url = https://github.com/outsideworx/come-in-and-find-out.git
+[submodule "duckumbrella"]
+	path = clients/duckumbrella
+	url = https://github.com/outsideworx/duckumbrella.git
+[submodule "gaiapeeps"]
+	path = clients/gaiapeeps
+	url = https://github.com/outsideworx/gaiapeeps.git
+[submodule "igli"]
+	path = clients/igli
+	url = https://github.com/outsideworx/igli.git
+[submodule "soupart"]
+	path = clients/soupart
+	url = https://github.com/outsideworx/soupart.git
+[submodule "soupkitchen"]
+	path = clients/soupkitchen
+	url = https://github.com/outsideworx/soupkitchen.git
 [submodule "thegreen"]
 	path = clients/thegreen
 	url = https://github.com/outsideworx/thegreen.git
-[submodule "clients/come-in-and-find-out"]
-	path = clients/come-in-and-find-out
-	url = https://github.com/outsideworx/come-in-and-find-out.git
-[submodule "clients/duckumbrella"]
-	path = clients/duckumbrella
-	url = https://github.com/outsideworx/duckumbrella.git
-[submodule "clients/gaiapeeps"]
-	path = clients/gaiapeeps
-	url = https://github.com/outsideworx/gaiapeeps.git
-[submodule "clients/igli"]
-	path = clients/igli
-	url = https://github.com/outsideworx/igli.git
-[submodule "clients/soupart"]
-	path = clients/soupart
-	url = https://github.com/outsideworx/soupart.git
-[submodule "clients/soupkitchen"]
-	path = clients/soupkitchen
-	url = https://github.com/outsideworx/soupkitchen.git
