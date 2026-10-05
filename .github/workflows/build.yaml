@@ -31,13 +31,7 @@ jobs:
       - env:
           NAME: ${{ github.event.client_payload.name }}
         run: |
-          git config user.name "outsideworx"
-          git config user.email "info@outsideworx.net"
           git submodule update --remote "clients/${NAME}"
-          if git diff --quiet "clients/${NAME}"; then
-            echo "No submodule change for ${NAME}; nothing to deploy."
-            exit 0
-          fi
           git add "clients/${NAME}"
-          git commit -m "Update ${NAME} submodule"
+          git commit -m "${NAME}: submodule update"
           git push
